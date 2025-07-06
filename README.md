@@ -1,4 +1,4 @@
-# 🎨 React Color Changer
+# React Color Changer
 
 A simple and interactive React application that allows users to change the background color of the page with the click of a button. Built as a fun mini-project to practice React fundamentals and state management.
 
